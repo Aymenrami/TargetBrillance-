@@ -78,4 +78,4 @@ Cela générera un fichier nettoyé `cleaned_orders.csv`.
 Grâce à une première exploration et un nettoyage manuel avec **Excel**, suivis d'un traitement automatisé avec **Python**, les données sont maintenant prêtes pour une analyse plus approfondie. Ce processus a permis de s'assurer que les dates sont cohérentes, les statuts valides, et que les données ne contiennent aucune information erronée ou incomplète.
 
 ## Contributeurs
-- **@xDweeb (Taibi El Yakouti)** : Nettoyage des données, développement du script Python et rédaction de ce README.
+*- **(Taibi El Yakouti) [@xdweb](https://www.linkedin.com/in/xdweb)**, : Nettoyage des données, développement du script Python et rédaction de ce README.*
